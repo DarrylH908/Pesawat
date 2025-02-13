@@ -3,8 +3,8 @@ Proyek sederhana ini berfungsi untuk mengetahui tren pesawat domestik yang beran
 
 # Tools
 Alat yang digunakan adalah :
--Excel untuk merapikan data yang belum bersih 
--Rstudio untuk menganalisa data.
+--Excel untuk merapikan data yang belum bersih 
+--Rstudio untuk menganalisa data.
 
 # Sumber Data
 Data diperoleh dari : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-lintas-penerbangan-dalam-negeri-indonesia-tahun-2003-2022.html

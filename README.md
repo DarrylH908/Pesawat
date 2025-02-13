@@ -4,6 +4,9 @@ Proyek sederhana ini berfungsi untuk mengetahui tren pesawat domestik yang beran
 # Tools
 Alat yang digunakan adalah Excel untuk merapikan data yang belum bersih dan Rstudio untuk menganalisa data.
 
+# Sumber Data
+Data diperoleh dari : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-lintas-penerbangan-dalam-negeri-indonesia-tahun-2003-2022.html
+
 # Metode Analisis 
 Metode analisa yang digunakan adalah menggunakan pendekatan ARIMA dengan jumlah tahun 2003-2022 untuk data aktual dan data yang digunakan untuk prediksi/peramalan dimulai dari tahun 2023-2025. Pendekatan ARIMA dipilih karena cocok dengan data tren. musiman dan data yang kompleks dibandingkan dengan Simple Moving Average. Selain itu model ARIMA lebih akurat untuk data yang kompleks. 
 

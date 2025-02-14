@@ -15,4 +15,8 @@ Metode analisa yang digunakan adalah menggunakan pendekatan ARIMA dengan jumlah 
 ![Grafik Peramalan Pesawat Berangkat dan Datang](https://github.com/user-attachments/assets/7c96812c-29e4-4c1b-8a7c-3d43935420e1)
 
 # Hasil dan Kesimpulan
-Dari hasil diatas Pesawat berangkat dan datang menandakan bahwa bandara domestik di Indonesia ramai penumpang karena sering bolak balik dari perjalanan misalnya dari tempat wisata maupun karena ada urusan dan sebagainya seperti pulang kampung, jadi dari sisi bisnis banyak tempat wisata yang terdampak baik sebetulnya. Seharusnya lebih dioptimalkan lagi untuk keberangkatan dan kedatangan pesawat dari berbagai provinsi di Indonesia.
+Dari hasil diatas Pesawat berangkat dan datang menandakan bahwa bandara domestik di Indonesia ramai penumpang karena sering bolak balik dari perjalanan misalnya dari tempat wisata maupun karena ada urusan dan sebagainya seperti pulang kampung, jadi dari sisi bisnis banyak tempat wisata yang terdampak baik sebetulnya. Seharusnya lebih dioptimalkan lagi untuk keberangkatan dan kedatangan pesawat dari berbagai provinsi di Indonesia. 
+Cara yang digunakan bisa dengan sebagai berikut :
+- Memperbaiki bandara dengan tampilan yang modern
+- Membangun Infrastruktur pendukung
+- Pengelolaan Air Traffic Controller dengan melatih SDM (Sumber Daya Manusia) maupun dengan memperbaiki peralatan ataupun mesin mesinnya

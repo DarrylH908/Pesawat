@@ -54,10 +54,13 @@ tabelh
 #Kita bikin plot peramalannya
 png('Grafik ramalan pesawat datang dan pergi.png')
 ggplot(tabelh,aes(x=Tahun))+ 
-  geom_line(aes(y=berangkat_asli),color='blue')+
-  geom_line(aes(y=datang_asli),color='red')+
-  geom_line(aes(y=prediksi_berangkat),linetype='dashed',color='blue')+
-  geom_line(aes(y=prediksi_datang),linetype='dashed',color='red')+
+  geom_line(aes(y=berangkat_asli,color='Berangkat'))+
+  geom_line(aes(y=datang_asli,color='Datang'))+
+  geom_line(aes(y=prediksi_berangkat,color='Prediksi Berangkat'),linetype='dashed')+
+  geom_line(aes(y=prediksi_datang,color='Prediksi Datang'),linetype='dashed')+
   labs(title='Ramalan pesawat datang dan berangkat tahun 2023-2025')+
+  scale_color_manual(values=c('Berangkat'='blue','Datang'='red','Prediksi Berangkat'='darkblue','Prediksi Datang'='darkred'))+
   theme_minimal()
+
+dev.off()
   

@@ -52,7 +52,7 @@ tabelh <- data.frame(
 tabelh
 
 #Kita bikin plot peramalannya
-png('GrafiK Peramalan Pesawat Berangkat dan Datang.png')
+png('Grafik Peramalan Pesawat Berangkat dan Datang.png')
 print(ggplot(tabelh,aes(x=Tahun))+ 
   geom_line(aes(y=berangkat_asli,color='Berangkat'))+
   geom_line(aes(y=datang_asli,color='Datang'))+

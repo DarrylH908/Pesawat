@@ -26,4 +26,4 @@ Cara yang digunakan bisa dengan sebagai berikut :
 - Menambah landasan pacu sekaligus memperpanjangnya.
 
 # Sumber Berita
-https://www.antaranews.com/berita/4372859/jubir-kemenhub-jumlah-pesawat-mulai-pulih-usai-sempat-turun
+[Antara News - Jubir Kemenhub: Jumlah Pesawat Mulai Pulih Usai Sempat Turun]https://www.antaranews.com/berita/4372859/jubir-kemenhub-jumlah-pesawat-mulai-pulih-usai-sempat-turun

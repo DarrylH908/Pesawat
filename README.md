@@ -12,5 +12,6 @@ Data diperoleh dari : https://www.bps.go.id/id/statistics-table/1/MTQwMiMx/lalu-
 # Metode Analisis 
 Metode analisa yang digunakan adalah menggunakan pendekatan ARIMA dengan jumlah tahun 2003-2022 untuk data aktual dan data yang digunakan untuk prediksi/peramalan dimulai dari tahun 2023-2025. Pendekatan ARIMA dipilih karena cocok dengan data tren, seasonal maupun data yang kompleks dibandingkan dengan Simple Moving Average. Selain itu model ARIMA lebih akurat untuk data yang kompleks. 
 
+![Grafik Peramalan Pesawat Berangkat dan Datang](https://github.com/user-attachments/assets/7c96812c-29e4-4c1b-8a7c-3d43935420e1)
 
-![GrafiK Peramalan Pesawat Berangkat dan Datang](https://github.com/user-attachments/assets/3bda6e20-5372-44a7-ac2e-4169245af12b)
+

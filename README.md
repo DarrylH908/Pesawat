@@ -1,4 +1,4 @@
-# Analisa Tren Penerbangan Domestik Indonesia Tahun 2003-2025
+# Analisis Tren Penerbangan Domestik Indonesia Tahun 2003-2025
 Proyek sederhana ini berfungsi untuk mengetahui tren pesawat domestik yang berangkat dan datang dari berbagai bandara di indonesia, proyek ini menggunakan metode arima dalam model forecastingnya. Proyek ini menganalisa tren pesawat domestik yang berangkat ( departure) dan kedatangan (arrival) dari berbagai bandara di Indonesia mulai tahun 2003-2025. Data ini diambil dari BPS (Badan Pusat Statistik) pada sektor transportasi. 
 
 # Tools
@@ -19,4 +19,4 @@ Dari hasil diatas Pesawat berangkat dan datang menandakan bahwa bandara domestik
 Cara yang digunakan bisa dengan sebagai berikut :
 - Memperbaiki bandara dengan tampilan yang modern
 - Membangun Infrastruktur pendukung
-- Pengelolaan Air Traffic Controller dengan melatih SDM (Sumber Daya Manusia) maupun dengan memperbaiki peralatan ataupun mesin mesinnya
+- Pengelolaan Air Traffic Controller (ATC) dengan melatih SDM (Sumber Daya Manusia) maupun dengan memperbaiki peralatan ataupun mesin mesinnya
